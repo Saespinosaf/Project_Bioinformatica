@@ -15,4 +15,4 @@ A través del estudio comparativo de secuencias genéticas, este proyecto busca 
 Todos los codigos usados se encuentran en el documento **Scripts.sh**, se puede correr con bash en una carpeta, pero esta debe incluir el programa muscle3.8.31_i86linux64
 
 ## Mostrar filogenia
-Al final de correr el script se generara un documento *.treefile* este se debe descargar a la computadora personal y se abre con la aplicación figtree
+Al final de correr el script se generara un documento **.treefile** este se debe descargar a la computadora personal y se abre con la aplicación figtree
