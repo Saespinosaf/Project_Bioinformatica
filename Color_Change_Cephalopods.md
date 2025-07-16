@@ -28,7 +28,7 @@ El origen evolutivo del gen reflectina es un tema de considerable interés. Evid
 
 Filogenia obtenida:
 
-![Filogenia obtenida](./Imagen.jpg)
+![Filogenia obtenida](./Picture.jpg)
 Imagen N°1 - Filogenia del gen reflectin, sin contar con los genes incompletos encontrados. La imagen muestra un árbol filogenético no enraizado que representa las relaciones evolutivas entre diversas secuencias de reflectina. En el final de las ramas se encuentra el codigo del gen, el nombre del gen "Ref_...", La especie a la que pertenece. Las especies se encuentran escritas con sus iniciales: Loligo pealei "Lp", Sepia officinalis "So", Xipholeptos notoides "Xn", Acanthosepion "A", Euprymna scolopes "Es".
 
 ## Observaciones
