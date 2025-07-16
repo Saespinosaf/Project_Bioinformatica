@@ -31,6 +31,8 @@ Filogenia obtenida:
 ![Filogenia obtenida](./Imagen.jpg)
 Imagen N°1 - Filogenia del gen reflectin, sin contar con los genes incompletos encontrados. La imagen muestra un árbol filogenético no enraizado que representa las relaciones evolutivas entre diversas secuencias de reflectina. En el final de las ramas se encuentra el codigo del gen, el nombre del gen "Ref_...", La especie a la que pertenece. Las especies se encuentran escritas con sus iniciales: Loligo pealei "Lp", Sepia officinalis "So", Xipholeptos notoides "Xn", Acanthosepion "A", Euprymna scolopes "Es".
 
+## Observaciones
+
 Se observa una clara separación entre las secuencias etiquetadas como "Ref1" y "Ref2", lo que sugiere que estas son parálogos (genes que se originaron por un evento de duplicación génica dentro del genoma de un ancestro común) y han divergido significativamente, esto lo podemos ver ya que las secuencias Ref2 (ej., Ref2_Xn, Ref2_Es) tienden a agruparse en la parte superior del árbol, principalmente en ramas verdes y cian, por lo contrario, las secuencias Ref1 (ej., Ref1_Lp, Ref1_Xn, Ref1_So) están más distribuidas, pero forman clados distintos, como el grupo Ref1_Lp en verde y magenta superior, y un gran clado de Ref1 de Sepia officinalis (So) en la parte inferior.
 
 Tambien se puede observar que dentro de las agrupaciones de isoformas, las secuencias de la misma especie tienden a agruparse juntas.
