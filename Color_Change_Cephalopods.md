@@ -25,4 +25,6 @@ El origen evolutivo del gen reflectina es un tema de considerable interés. Evid
 * Codigos (Se encuentra en **Scripts.sh**)
 
 ## Resultados obtenidos
-Filogenia obtenida (./Imagen.png)
+
+![Filogenia obtenida](./Imagen.jpg)
+
