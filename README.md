@@ -6,12 +6,13 @@ A través del estudio comparativo de secuencias genéticas, este proyecto busca 
 
 ## Requisitos para el programa
 * Muscle
+* Atom
 * IQTREE
 * FIGTREE
 * Base de datos NCBI
 
 ## Códigos
-**Parte 1 - Descarga de secuencias**
-Base de datos NCBI
+Todos los codigos usados se encuentran en el documento **Scripts.sh**, se puede correr con bash en una carpeta, pero esta debe incluir el programa muscle3.8.31_i86linux64
 
-/u/scratch/d/dechavez/Bioinformatica-PUCE/MastBio/edirect/esearch -db nuccore -query "Cephalopoda[ORGN]" | efetch -format docsum | xtract -set Set -rec Rec -pattern DocumentSummary -block DocumentSummary -pkg Common -wrp Accession -element AccessionVersion -wrp Organism -element Organism -wrp Title -element Title | xtract -head accession -pattern Rec -def "-" -element Accession -element Organism -element Title > C.Genes
+## Mostrar filogenia
+Al final de correr el script se generara un documento *.treefile* este se debe descargar a la computadora personal y se abre con la aplicación figtree
